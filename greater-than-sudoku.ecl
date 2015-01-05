@@ -1,3 +1,7 @@
+% ECLiPSe 6.1 #194 - http://www.eclipseclp.org/
+% Usage:
+% eclipse -b greater-than-sudoku.ecl -e main
+
 :- lib(ic).
 :- lib(ic_global).
 
